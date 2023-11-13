@@ -32,7 +32,7 @@ Please see [CONTRIBUTING.md](https://github.com/DemocracyOS/app/blob/master/CONT
 ## Contributors
 
 See [CONTRIBUTORS.md](https://github.com/DemocracyOS/app/blob/master/CONTRIBUTORS.md) to get to know the DemocracyOS team and contributors.
-
+and to have great communication with our contributors
 ## Links
 
 * [DemocracyOS official site](http://democracyos.org). The project's official site.
